@@ -1,8 +1,8 @@
 # JQuery equal children 1.0
--
-JQuery equal children 1.0
 
-You will be able to use it as for 
+
+You will be able to use it as for :
+-
 
       $(window).resize(function() {
         var window_width = window.innerWidth || $(window).width();
