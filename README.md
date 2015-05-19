@@ -1,2 +1,3 @@
-# jquery-equal-childrens
-JQuery equal childrens 
+# Jquery equal children
+-
+JQuery equal children
