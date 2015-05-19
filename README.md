@@ -9,10 +9,10 @@ You will be able to use it as for :
 
         // xs : Extra small devices - Phones (<768px) .
         if (window_width < 768 ) {
-          $('.menu').equalChildrensHeight("a");
+          $('.menu').equalChildrenHeight("a");
         }
         else {
-          $('.menu').equalChildrensAutoHeight("a");
+          $('.menu').equalChildrenAutoHeight("a");
         }
 
       });
