@@ -1,0 +1,23 @@
+{
+  "name": "jquery-equal-children",
+  "version": "1.1.0",
+  "description": "JQuery equal children",
+  "dependencies": {
+    "bootstrap": "^3.*"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Natshah/jquery-equal-children.git"
+  },
+  "keywords": [
+    "JQuery",
+    "equal children",
+    "equal height",
+    "equal auto height"
+  ],
+  "author": "Rajab Natshah <rajabn@gmail.com>",
+  "license": "MIT",
+  "homepage": "http://natshah.com"
+}

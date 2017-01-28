@@ -1,4 +1,4 @@
-# JQuery equal children 1.0
+# JQuery equal children 1.1.0
 
 
 You will be able to use it as for :
